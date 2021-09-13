@@ -1,0 +1,14 @@
+From: radim.janalik@usi.ch
+To: $EMAIL
+Subject: HPC: icsmaster credentials
+Reply-To: radim.janalik@usi.ch
+
+Dear $NAME,
+
+Here are your credentials to log-in to the icsmaster cluster you will be using in the High Performance Computing class. Instructions how to log in and use the cluster will be given on the first lecture.
+
+Login: $LOGIN
+Password: $PASSWORD
+
+Best regards,
+Radim Janalik
